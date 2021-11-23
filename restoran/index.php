@@ -124,7 +124,7 @@
 
             <div class="row mt-5">
                     <div class="col">
-                        <p class="text-center">2021 copyright@fancesatria.com</p>
+                        <p class="text-center">2021 copyright@FerdiMenolakSadar</p>
                     </div>
             </div>
         </div>
